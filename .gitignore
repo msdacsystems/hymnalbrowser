@@ -1,5 +1,7 @@
 __pycache__/
 assets/
+output/
+env/
 *.env
 *.json
 .png
@@ -7,3 +9,4 @@ assets/
 *.txt
 *.fdback
 *.bak
+*.csv
